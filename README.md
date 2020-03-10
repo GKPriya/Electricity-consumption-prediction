@@ -1,3 +1,3 @@
 # Electricity-consumption-prediction
 
-Predicts electricty consumption for every 15 minutes using time stamp
+Predicts electricty consumption for a particular day in the future.
